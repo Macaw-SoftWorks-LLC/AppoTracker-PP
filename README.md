@@ -7,6 +7,7 @@ This Privacy Policy describes how Mawk collects, uses, and protects the personal
 Mawk collects appointment and service information provided by users for the purpose of showcasing it within the app. This may include details such as appointment times, descriptions, and associated services.
 
 ## 2. Use of Personal Information
+The collected personal information is used solely to showcase the user's appointment and service information within the Mawk app. This information is stored and retrieved from our cloud database, specifically Google Firestore.
 
 ## 3. Data Sharing
 The collected personal information is used solely to showcase the user's appointment and service information within the Mawk app. This information is stored and retrieved from our cloud database, specifically Google Firestore.
